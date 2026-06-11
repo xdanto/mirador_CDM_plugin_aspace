@@ -5,5 +5,5 @@ if !AppConfig.has_key?('enable_representative_file_version')
 end
 
 AppConfig[:enable_mirador] = true
-AppConfig[:enable_kaltura] = true
+# AppConfig[:enable_kaltura] = true
 AppConfig[:enable_contentdm] = true
