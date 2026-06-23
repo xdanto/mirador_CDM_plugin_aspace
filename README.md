@@ -9,7 +9,7 @@ Tested with ArchivesSpace 4.2
 **Credit:** Adapted from a plugin built by Kevin Clair, Eberly Family Special Collections Library. Removed Kaltura for Cranbrook.
 
 ## In ArchivesSpace config.rb
-Change the following line:
+After saving this plugin to the plugins directory, add the plugin to config.rb after existing plugins (example below):
 
 AppConfig[:plugins] = ['local', 'lcnaf', 'mirador_CDM_plugin_aspace']
 
