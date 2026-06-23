@@ -11,7 +11,7 @@ Tested with ArchivesSpace 4.2
 ## In ArchivesSpace config.rb
 Change the following line:
 
-AppConfig[:plugins] = ['local', 'lcnaf', 'mirador']
+AppConfig[:plugins] = ['local', 'lcnaf', 'mirador_CDM_plugin_aspace']
 
 ## Getting the manifest from ContentDM
 The relationship between the ContentDM URI and ContentDM's IIIF URI can be best expressed per below:
