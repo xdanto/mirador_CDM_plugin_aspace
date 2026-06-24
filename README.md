@@ -6,7 +6,7 @@ Compatible with ArchivesSpace 4.2
 
 Tested with ArchivesSpace 4.2
 
-**Credit:** Adapted from a plugin built by Kevin Clair, Eberly Family Special Collections Library. Removed Kaltura for Cranbrook.
+**Credit:** Adapted from a plugin built by Kevin Clair, Eberly Family Special Collections Library. Removed Kaltura (partially) for Cranbrook.
 
 ## In ArchivesSpace config.rb
 After saving this plugin to the plugins directory, add the plugin's directory name to config.rb after existing plugins (example below):
